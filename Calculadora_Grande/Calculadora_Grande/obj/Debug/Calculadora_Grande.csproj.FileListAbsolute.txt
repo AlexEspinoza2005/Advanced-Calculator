@@ -1,0 +1,13 @@
+C:\Users\user\Documents\Visual Studio 2015\Calculadora_Grande\Calculadora_Grande\bin\Debug\Calculadora_Grande.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Calculadora_Grande\Calculadora_Grande\obj\Debug\Calculadora_Grande.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Calculadora_Grande\Calculadora_Grande\obj\Debug\Calculadora_Grande.Form1.resources
+C:\Users\user\Documents\Visual Studio 2015\Calculadora_Grande\Calculadora_Grande\obj\Debug\Calculadora_Grande.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Calculadora_Grande\Calculadora_Grande\obj\Debug\Calculadora_Grande.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Calculadora_Grande\Calculadora_Grande\bin\Debug\Calculadora_Grande.exe
+C:\Users\user\Documents\Visual Studio 2015\Calculadora_Grande\Calculadora_Grande\bin\Debug\Calculadora_Grande.pdb
+C:\Users\user\Documents\Visual Studio 2015\Calculadora_Grande\Calculadora_Grande\obj\Debug\Calculadora_Grande.exe
+C:\Users\user\Documents\Visual Studio 2015\Calculadora_Grande\Calculadora_Grande\obj\Debug\Calculadora_Grande.pdb
+C:\Users\user\Documents\Visual Studio 2015\Calculadora_Grande\Calculadora_Grande\bin\Debug\Calculadora_Grande.exe.manifest
+C:\Users\user\Documents\Visual Studio 2015\Calculadora_Grande\Calculadora_Grande\bin\Debug\Calculadora_Grande.application
+C:\Users\user\Documents\Visual Studio 2015\Calculadora_Grande\Calculadora_Grande\obj\Debug\Calculadora_Grande.exe.manifest
+C:\Users\user\Documents\Visual Studio 2015\Calculadora_Grande\Calculadora_Grande\obj\Debug\Calculadora_Grande.application
