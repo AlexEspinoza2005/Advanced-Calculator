@@ -18,13 +18,8 @@ This is an advanced calculator developed in **C# with Windows Forms**, offering 
 | ![Dark Mode](https://github.com/AlexEspinoza2005/Advanced-Calculator/blob/main/Dise%C3%B1oPreview/img2.jpeg) | ![Scientific Dark Mode](https://github.com/AlexEspinoza2005/Advanced-Calculator/blob/main/Dise%C3%B1oPreview/img3.jpeg) | ![Light Mode](https://github.com/AlexEspinoza2005/Advanced-Calculator/blob/main/Dise%C3%B1oPreview/img1.jpeg) |
 
 
-
-
-
-<p align="center">
   <h2> 🔬 Scientific Mode</h2>
   <img src="https://github.com/AlexEspinoza2005/Advanced-Calculator/blob/main/Dise%C3%B1oPreview/img4.jpeg" alt="Scientific Mode" width="50%">
-</p>
 
 ## Solutions Implemented
 
